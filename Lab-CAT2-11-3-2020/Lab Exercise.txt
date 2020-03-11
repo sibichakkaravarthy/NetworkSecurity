@@ -1,0 +1,23 @@
+
+Find the gateway address.
+Find the LAN segment broadcast 
+Find the domain name of the infected host.
+What OS the infected host runs?
+What is the IP address of the infected Windows host? 
+What is the MAC address of the infected Windows host? 
+What is the host name of the infected Windows host? 
+What is the Windows user account name for the infected Windows host? 
+What are the URLs that returned Windows executable files to the infected Windows host? 
+What are the SHA256 hashes of the Windows executable files sent to the infected Windows host?
+Find the Indicator Compromise 
+What was the date and time the malicious traffic started?
+What is the MAC address of the infected Windows host?
+What is the host name of the infected Windows host?
+What is the user account name used on the infected Windows host?
+What URL in the pcap returned a Windows executable file?
+What is the size of the Windows executable file from that URL?
+What is the SHA256 hash of the Windows executable file from that URL?
+What type of malware is the Windows executable returned from that URL?
+
+
+
